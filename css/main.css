@@ -10,6 +10,12 @@ body {
   justify-content: space-between;
   color: #1e959b;
 }
+.display-4{
+	text-align: center;
+}
+.h4{
+	text-align: center;
+}
 .aside {
   height: 400px;
 }
