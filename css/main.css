@@ -92,11 +92,13 @@ body {
   float: right;
 }
 .copyright {
-  margin-top: 40px;
+  margin-top: auto;
   font-size: 14px;
   color: gray;
-  text-align: center;
-  margin-bottom: 30px;
+  /*text-align: center;
+  margin-bottom: 30px;*/
+  height: 40px;
+	align-self: center;
   /* position: absolute; */
   /* bottom: 30px; */
   /* left: 0; */
